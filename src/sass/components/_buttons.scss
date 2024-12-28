@@ -91,11 +91,11 @@
 
 /* Dark Resume Style */
 .cta-btn--resume-d {
-  color: $secondary-color;
-  border: 2px solid $secondary-color;
+  color: $dark-btn-text;
+  border: 2px solid $dark-btn-border;
 
   &::after {
-    background: $secondary-color;
+    background: $dark-btn-color;
   }
 
   &:hover {
